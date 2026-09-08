@@ -1,7 +1,7 @@
 ## How to run
 
 1. You need Python 3.
-2. Open a terminal in the `session12_project` folder.
+2. Open a terminal in the `Task_12_Python_Examples` folder.
 4. Run these commands, one at a time:
     python Student_results.py
     python Computer_order.py
